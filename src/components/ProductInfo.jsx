@@ -4,7 +4,7 @@ import Discount from '../icons/discount.svg'
 import StarFill from '../icons/star-filled.svg'
 import { Rating } from '@mui/material'
 import { ProductContext } from '../store/context'
-import { Info, Price, YellowStar, GreyStar } from './styled/ProductInfo.styled'
+import { Info, Price, YellowStar, GreyStar } from './styled/Product.styled'
 
 
 const ProductInfo = () => {
