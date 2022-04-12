@@ -7,7 +7,7 @@
   },
   "main": "./src/index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "serve -s build",
     "build": "webpack  --mode production",
     
   },
