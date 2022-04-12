@@ -9,7 +9,7 @@
   "scripts": {
     "start": "node index.js",
     "build": "webpack  --mode production",
-    "heroku-postbuild": "echo Skip build on Heroku"
+    
   },
   "keywords": [],
   "author": "",
