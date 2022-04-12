@@ -12,7 +12,7 @@ const Description = () => {
     return (
     <DescriptionContainer>
         <Titleh4>DESCRIPTION</Titleh4>
-        <p>{datas && datas.description_long}</p>
+        <p style={{paddingLeft:'20px', paddingRight:'20%'}}>{datas && datas.description_long}</p>
         <BoxContainer>
             <Box sx={[{
                 backgroundColor: '#fff',

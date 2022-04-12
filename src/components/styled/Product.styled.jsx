@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const ProductWrapper = styled.div`
     clear: both;
     width: 100%;
-    
+
 `
 
 export const ProductView = styled.div`
@@ -56,8 +56,6 @@ export const ZoomIcon = styled.img`
 
 export const DescriptionContainer = styled.div`
     padding-top: 30px;
-    padding-left: 20px;
-    padding-right: 30%;
     padding-bottom: 30px;
     width: 100%;
     background-color: #f5f5f5;
@@ -71,6 +69,7 @@ export const BoxContainer = styled.div`
 export const Titleh4 = styled.h4`
     color: #e55145;
     padding-bottom: 10px;
+    padding-left: 20px;
 `
 
 export const GrayP = styled.p`
