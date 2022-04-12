@@ -7,7 +7,7 @@
   },
   "main": "./src/index.js",
   "scripts": {
-    "start": "webpack",
+    "start": "node index.js",
     "build": "webpack  --mode production",
     "heroku-postbuild": "echo Skip build on Heroku"
   },
